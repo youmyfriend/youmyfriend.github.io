@@ -1,5 +1,5 @@
-window.alert("Is audio recording ko sun ne ke liye tumko dil, dimag,data or headphones ka zarurat parega. Iss recording me aise koi bhi bhasha ka prayog nahi ki kiya gaya hai jisse rinku hawsi hojaye and princy tera mazaak udaye. There is something I wana say to you. Dobara is chiz ko dekhne ka zarurat nahi hai lekin agr dekhne ka man kiya to just refresh this page.");
-window.alert("Waise is audio recording me aise kuch bhi naya nahi hai, jo tum pehle mere muh se nahi suni hogi, but still it kinds of feel personal so here i am, your boyfriend. YOUR SOULMATE.")
+window.alert("Is audio recording ko sun ne ke liye tumko dil, dimag,data or headphones ka zarurat parega. Iss recording me aise koi bhi bhasha ka prayog nahi ki kiya gaya hai jisse tumko mere se pyar hojaye. There is something I wana say to you. Dobara is chiz ko dekhne ka zarurat nahi hai lekin agr dekhne ka man kiya to just refresh this page.");
+window.alert("Waise is audio recording me aise kuch bhi naya nahi hai, jo tum pehle mere muh se nahi suni hogi, but still it kinds of feel personal so here i am, your friend. YOUR BANDAR.")
 
 
 $(function()
